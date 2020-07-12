@@ -1,1 +1,2 @@
 # Web-Crawler-Analysis-Project
+A web server has been setup at http://comp20008-jh.eng.unimelb.edu.au:9889/main/ containing a number of media reports on Tennis matches between 2004 and 2005. As a data scientist, extract information from those reports and use that information to improve the understanding of player performance. A JSON data file containing player names and key statistics is also available here.
